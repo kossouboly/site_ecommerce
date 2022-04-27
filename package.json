@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "serveur avec express",
+  "main": "index.js",
+  "scripts": {
+   
+    "start":"nodemon index.js"
+  },
+  "author": "topman tedji",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
